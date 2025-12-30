@@ -1,0 +1,7 @@
+{
+  "name": "Amar Pathshala - Digital School",
+  "description": "An open-source digital learning platform for grades 0-5 featuring multi-language support (Bengali primary), AI-generated lessons with images and text-to-speech, and interactive examinations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
